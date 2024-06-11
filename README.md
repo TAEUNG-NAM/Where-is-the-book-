@@ -22,7 +22,8 @@
 ## 산출물
 [☞ 프로젝트 발표자료](https://drive.google.com/file/d/1y_xjZhPUx0Qf6OmaK7MWz-y2dOIkVDki/view?usp=sharing)<br>
 [☞ 프로젝트 결과보고서](https://drive.google.com/file/d/1piIaUR5CAH9sOd5Two1skp7cmLkZBqm6/view?usp=sharing)<br>
-[☞ 프로젝트 템플릿](https://docs.google.com/presentation/d/1JK9oPMjGXmqPNKpiTHzMrIFBxRgVO2Ya/edit?usp=drive_link&ouid=105569728462683027125&rtpof=true&sd=true)<br>
+[☞ 프로젝트 템플릿](https://docs.google.com/presentation/d/1JK9oPMjGXmqPNKpiTHzMrIFBxRgVO2Ya/edit?usp=drive_link&ouid=105569728462683027125&rtpof=true&sd=true)<br>\
+[☞ 시연 영상](https://www.youtube.com/watch?v=5gE5p2aURBY)<br>
 
 <br>
 
