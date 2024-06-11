@@ -20,7 +20,7 @@
   - 기존 도서관 시스템에서의 불편한 도서 위치 탐색 문제를 해결, 도서관 이용자가 책을 보다 용이하게 찾을 수 있도록 지원
 
 ## 산출물
-[☞ 프로젝트 발표자료](https://drive.google.com/file/d/1piIaUR5CAH9sOd5Two1skp7cmLkZBqm6/view?usp=sharing)<br>
+[☞ 프로젝트 발표자료](https://drive.google.com/file/d/1y_xjZhPUx0Qf6OmaK7MWz-y2dOIkVDki/view?usp=sharing)<br>
 [☞ 프로젝트 결과보고서](https://drive.google.com/file/d/1piIaUR5CAH9sOd5Two1skp7cmLkZBqm6/view?usp=sharing)<br>
 [☞ 프로젝트 템플릿](https://docs.google.com/presentation/d/1JK9oPMjGXmqPNKpiTHzMrIFBxRgVO2Ya/edit?usp=drive_link&ouid=105569728462683027125&rtpof=true&sd=true)<br>
 
