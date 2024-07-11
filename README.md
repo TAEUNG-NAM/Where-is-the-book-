@@ -1,6 +1,6 @@
 # <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZk0z0HohyjkKELxl1XCHinUq9KY4toK023HKzZ5MgaiMw_RPbjdpuxjyzihhVDiBNrKT7tVFsuZmzU2Ye95zDeO0CLJwUc0pY=w1920-h919" alt="logo" width=40px>무인 도서관 관리 시스템(Unmanned Library System)
 
-![title](https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZ5t7OqlCQmRmoKH4nYJtuqs6DW2KSXilN5ZIk8vWw-sGDrsBoHAMj9SGy-5PfOd5QcooUgkg0ptvVQ4QiSnwqgMCaA1e4pcJo=w1920-h878-rw-v1)   
+![title](<a href="https://ibb.co/C1vPHrb"><img src="https://i.ibb.co/C1vPHrb/ic-launcher-playstore.png" alt="ic-launcher-playstore" border="0"></a>)   
 
 
 ### 프로젝트 개발 배경
