@@ -1,6 +1,6 @@
 # <img src="https://i.ibb.co/r7MdwWx/ic-launcher-playstore.png" alt="logo" width=40px>무인 도서관 관리 시스템(Unmanned Library System)
 
-![title](<a href="https://ibb.co/C1vPHrb"><img src="https://i.ibb.co/C1vPHrb/ic-launcher-playstore.png" alt="ic-launcher-playstore" border="0"></a>)   
+![main](https://i.ibb.co/6DnGNvp/image.png)   
 
 
 ### 프로젝트 개발 배경
