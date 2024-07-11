@@ -1,4 +1,4 @@
-# <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZk0z0HohyjkKELxl1XCHinUq9KY4toK023HKzZ5MgaiMw_RPbjdpuxjyzihhVDiBNrKT7tVFsuZmzU2Ye95zDeO0CLJwUc0pY=w1920-h919" alt="logo" width=40px>무인 도서관 관리 시스템(Unmanned Library System)
+# <img src="https://i.ibb.co/r7MdwWx/ic-launcher-playstore.png" alt="logo" width=40px>무인 도서관 관리 시스템(Unmanned Library System)
 
 ![title](<a href="https://ibb.co/C1vPHrb"><img src="https://i.ibb.co/C1vPHrb/ic-launcher-playstore.png" alt="ic-launcher-playstore" border="0"></a>)   
 
