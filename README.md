@@ -37,5 +37,5 @@
 
 
 ## 🔎 개발환경
-![skills](https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbT0e1XxbcITJXSTX0s8Cj3OU4MzSZB0-z3RnLFfz2Y6me4XuinAz8m9pjAAj2iL46B994af8l7wY9czy1_L595hkCxQjYhqVQ=w1920-h878-rw-v1)   
+![skills](https://i.ibb.co/sWw72hY/image.png)   
 
